@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm TheCrimsonDude</h1>
 <h3 align="center">A developer with a passion for programming and history 😊</h3>
 
-- 🔭 I’m currently working on [FNF Vs Queen Mod](https://github.com/TheCrimsonDude/Vs-Queen-Mod-Source-Code.git)
+- 🔭 I’m currently working on [Vs Queen Mod](https://github.com/TheCrimsonDude/Vs-Queen-Mod-Source-Code.git)
 
 - 🌱 I’m currently learning **Haxe Flixel, Among Other Games Engines**
-
-- 🤝 I’m looking for help with **FNF An Enchanted Night**
 
 - 📫 How to reach me **itsmarklmao@gmail.com**
 
